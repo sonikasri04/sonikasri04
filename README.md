@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Sonika Srinivas, a Grad Student who has professinal experience as a Software Developer of 2+ years in building cloud-native data platforms and scalable ETL pipelines. My expertise includes **Python, SQL, and Azure**, with a strong focus on performance optimization, reliability, and cross-functional collaboration.
+I am Sonika Srinivas, a graduate student with 2+ years of professional software development experience in building cloud-native data platforms and scalable ETL pipelines. My expertise includes **Python, SQL, and Azure**, with a strong focus on performance optimization, reliability, and cross-functional collaboration.
 
 I combine a strong analytical foundation with a creative approach to data visualization, designing dashboards in **Streamlit, Tableau, and Power BI** that turn complex datasets into actionable business insights.
 
