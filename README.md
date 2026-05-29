@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 I am Sonika Srinivas, a grad student at SDSU and former Software Developer at Ericsson, building at the intersection of data engineering and applied ML.
-I've shipped end-to-end systems in production: a real-time clickstream pipeline processing 500 events/sec, a two-stage recommendation model with a 38.8% CTR lift, and cloud-native ETL infrastructure handling millions of records on Azure. I work across the full stack — from Kafka and Spark to PyTorch, LLMs, and REST APIs — and care about code that's fast, reliable, and actually useful outside of notebooks.
+I've shipped end-to-end systems in production: a real-time clickstream pipeline processing 500 events/sec, a two-stage recommendation model with a 38.8% CTR lift, and cloud-native ETL infrastructure handling millions of records on Azure. I work across the full stack from Kafka and Spark to PyTorch, LLMs, and REST APIs and care about code that's fast, reliable, and actually useful outside of notebooks.
 
 ---
 
