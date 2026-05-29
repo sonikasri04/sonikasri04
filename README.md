@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 -->
 
 
-I am Sonika Srinivas, a graduate student with 2+ years of professional software development experience in building cloud-native data platforms and scalable ETL pipelines. My expertise includes **Python, SQL, and Azure**, with a strong focus on performance optimization, reliability, and cross-functional collaboration.
-
-I combine a strong analytical foundation with a creative approach to data visualization, designing dashboards in **Streamlit, Tableau, and Power BI** that turn complex datasets into actionable business insights.
-
-I enjoy working at the intersection of data engineering, cloud computing, and software development, delivering production-ready analytics solutions that drive informed decision-making.
+I am Sonika Srinivas, a grad student at SDSU and former Software Developer at Ericsson, building at the intersection of data engineering and applied ML.
+I've shipped end-to-end systems in production: a real-time clickstream pipeline processing 500 events/sec, a two-stage recommendation model with a 38.8% CTR lift, and cloud-native ETL infrastructure handling millions of records on Azure. I work across the full stack — from Kafka and Spark to PyTorch, LLMs, and REST APIs — and care about code that's fast, reliable, and actually useful outside of notebooks.
 
 ---
 
